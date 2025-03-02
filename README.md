@@ -1,4 +1,4 @@
-# Spotify-YouTube-Music-PowerBI-Project7
+# Spotify-YouTube-Music-PowerBI-Project-P7
 
 
 **Spotify & YouTube Music Dataset Link** 
